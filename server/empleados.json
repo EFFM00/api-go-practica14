@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "nombre": "Juan",
+      "activo": true
+    },
+    {
+      "id": 2,
+      "nombre": "María",
+      "activo": false
+    },
+    {
+      "id": 3,
+      "nombre": "Pedro",
+      "activo": true
+    },
+    {
+      "id": 4,
+      "nombre": "Ana",
+      "activo": true
+    },
+    {
+      "id": 5,
+      "nombre": "Luis",
+      "activo": false
+    },
+    {
+      "id": 6,
+      "nombre": "Laura",
+      "activo": true
+    },
+    {
+      "id": 7,
+      "nombre": "Carlos",
+      "activo": true
+    },
+    {
+      "id": 8,
+      "nombre": "Sofía",
+      "activo": false
+    },
+    {
+      "id": 9,
+      "nombre": "Miguel",
+      "activo": true
+    },
+    {
+      "id": 10,
+      "nombre": "Elena",
+      "activo": true
+    }
+  ]
+  
